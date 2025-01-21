@@ -1,43 +1,43 @@
 
 # Callidos Group
 
-## Une entreprise majestueuse à l’avant-garde de l’innovation technologique
+## A Majestic Company at the Forefront of Technological Innovation
 
-Callidos Group est bien plus qu’une simple entreprise de services numériques. C’est une entité majestueuse, un pilier de l’innovation technologique, qui repousse sans cesse les limites du possible à travers des projets d’envergure internationale.
+Callidos Group is much more than just a digital services company. It is a majestic entity, a pillar of technological innovation, constantly pushing the boundaries of what is possible through large-scale international projects.
 
-Avec une vision tournée vers l’excellence, Callidos Group s’impose comme un acteur incontournable dans les domaines de la cybersécurité, du développement logiciel et des infrastructures IT de nouvelle génération. Chaque projet mené par l’entreprise incarne une quête de perfection, conjuguant expertise technique et avant-gardisme stratégique.
+With a vision focused on excellence, Callidos Group stands as a key player in the fields of cybersecurity, software development, and next-generation IT infrastructures. Each project undertaken by the company embodies a pursuit of perfection, combining technical expertise with strategic foresight.
 
 ---
 
-## Des projets d’envergure mondiale
+## Large-Scale Global Projects
 
 ### **Protectora**
-Callidos Group est à l’origine de réalisations spectaculaires, dont **Protectora**, un projet révolutionnaire qui redéfinit les standards de la communication ultra-sécurisée. Conçu pour les environnements critiques tels que les applications militaires et gouvernementales, **Protectora** illustre l’ambition de Callidos de garantir des communications à la fois robustes, rapides et inviolables.
+Callidos Group is behind spectacular achievements, including **Protectora**, a revolutionary project that redefines the standards of ultra-secure communication. Designed for critical environments such as military and governmental applications, **Protectora** reflects Callidos' ambition to ensure communications that are robust, fast, and invulnerable.
 
-Ce projet repose sur les technologies les plus avancées :
-- **Kyber** : pour l’échange de clés post-quantes, garantissant une sécurité résiliente face aux menaces futures.
-- **AES-256-GCM** : l’algorithme de chiffrement le plus robuste, assurant une confidentialité inégalée.
-- **WebRTC** : pour des communications en temps réel fluides et totalement protégées.
-- **ZKP-MEC avec GNARK** : une implémentation d'authentification de pointe utilisant la preuve à divulgation nulle de connaissance, garantissant une sécurité sans faille.
+This project is based on cutting-edge technologies:
+- **Kyber**: for post-quantum key exchange, ensuring resilience against future threats.
+- **AES-256-GCM**: the most robust encryption algorithm, guaranteeing unparalleled confidentiality.
+- **WebRTC**: for real-time communications that are smooth and fully secured.
+- **ZKP-MEC with GNARK**: a cutting-edge authentication implementation using zero-knowledge proofs, ensuring flawless security.
 
 ### **Argos**
-En complément de **Protectora**, Callidos Group développe également **Argos**, un outil révolutionnaire d’OSINT (Open Source Intelligence). **Argos** est conçu pour permettre une collecte et une analyse efficace des données accessibles au public tout en respectant les normes éthiques les plus strictes.
+In addition to **Protectora**, Callidos Group is also developing **Argos**, a revolutionary OSINT (Open Source Intelligence) tool. **Argos** is designed to facilitate the efficient collection and analysis of publicly accessible data while adhering to the highest ethical standards.
 
-**Argos** se distingue par :
-- Une interface intuitive pour explorer les sources de données publiques.
-- Des algorithmes avancés d’analyse et de corrélation pour identifier des tendances et des menaces.
-- Une sécurité renforcée pour protéger les données collectées et les analyses réalisées.
-
----
-
-## Un savoir-faire inégalé
-
-Callidos Group rassemble des experts de haut niveau, passionnés par l’innovation et la création de solutions sécurisées adaptées aux besoins des clients les plus exigeants. L'entreprise adopte une approche modulaire et indépendante, garantissant à chaque client une flexibilité et une évolutivité optimales dans leurs projets.
+**Argos** stands out with:
+- An intuitive interface to explore public data sources.
+- Advanced algorithms for data analysis and correlation to identify trends and threats.
+- Enhanced security to protect collected data and generated insights.
 
 ---
 
-## Des valeurs solides et une ambition sans limites
+## Unmatched Expertise
 
-L’excellence, la confidentialité et l’innovation sont les valeurs fondamentales qui animent Callidos Group. L'entreprise se donne pour mission de bâtir un futur numérique sûr et performant, en fournissant des solutions hautement sécurisées et adaptées aux enjeux de demain.
+Callidos Group brings together top-tier experts, passionate about innovation and the creation of secure solutions tailored to the needs of the most demanding clients. The company adopts a modular and independent approach, ensuring flexibility and scalability in every project.
 
-Avec Callidos Group, l’avenir technologique se construit aujourd’hui, dans la grandeur et la majesté de l’innovation.
+---
+
+## Strong Values and Limitless Ambition
+
+Excellence, confidentiality, and innovation are the core values that drive Callidos Group. The company is committed to building a secure and high-performing digital future by delivering highly secure solutions tailored to tomorrow's challenges.
+
+With Callidos Group, the technological future is being built today, with grandeur and majestic innovation.
