@@ -1,43 +1,63 @@
+# Callidos  
+## Next-Gen Security & OSINT Solutions  
 
-# Callidos Group
+## Who We Are  
+**Callidos** is a cybersecurity startup focused on ethical **OSINT** (Open Source Intelligence) and tailored defense solutions.  
+We combine agile innovation with deep technical expertise to help organizations anticipate digital risks and secure sensitive assets.  
 
-## A Majestic Company at the Forefront of Technological Innovation
+## Core Offerings  
 
-Callidos Group is much more than just a digital services company. It is a majestic entity, a pillar of technological innovation, constantly pushing the boundaries of what is possible through large-scale international projects.
+### 🛡️ Argos OSINT Suite  
+**Your Ethical Intelligence Platform**  
+Automate data collection from public sources while maintaining strict compliance with privacy regulations.  
 
-With a vision focused on excellence, Callidos Group stands as a key player in the fields of cybersecurity, software development, and next-generation IT infrastructures. Each project undertaken by the company embodies a pursuit of perfection, combining technical expertise with strategic foresight.
+#### Key Features:  
+- **Cross-Platform Monitoring**: Track mentions across social media, forums, and dark web sources.  
+- **AI-Driven Threat Detection**: Identify emerging risks using predictive analytics.  
+- **GDPR/CCPA Compliance**: Built-in anonymization tools for ethical intelligence gathering.  
+- **API-First Design**: Seamless integration with existing security ecosystems.  
 
----
+### 🔒 Protectora Secure Comms  
+**Zero-Trust Communication for Critical Operations**  
+End-to-end encrypted messaging and file sharing infrastructure designed for high-risk environments.  
 
-## Large-Scale Global Projects
+#### Technical Edge:  
+- **Post-Quantum Cryptography**: Kyber-1024 & Falcon-1024 algorithms.  
+- **Zero-Knowledge Architecture**: Users control encryption keys – we never access your data.  
+- **On-Premise Deployment**: Full infrastructure control for regulated industries.  
 
-### **Protectora**
-Callidos Group is behind spectacular achievements, including **Protectora**, a revolutionary project that redefines the standards of ultra-secure communication. Designed for critical environments such as military and governmental applications, **Protectora** reflects Callidos' ambition to ensure communications that are robust, fast, and invulnerable.
+## Startup Advantages  
+### Why Work With an Emerging Player?  
+- **Speed**: Implement solutions 40% faster than with traditional vendors (benchmarked POC data).  
+- **Adaptability**: Customize tools to your exact workflow needs.  
+- **Cost Efficiency**: Startup pricing models with enterprise-grade security.  
 
-This project is based on cutting-edge technologies:
-- **Kyber**: for post-quantum key exchange, ensuring resilience against future threats.
-- **AES-256-GCM**: the most robust encryption algorithm, guaranteeing unparalleled confidentiality.
-- **WebRTC**: for real-time communications that are smooth and fully secured.
-- **ZKP-MEC with GNARK**: a cutting-edge authentication implementation using zero-knowledge proofs, ensuring flawless security.
+## Our Differentiation  
+### OSINT+Security Fusion  
+Unique expertise bridging intelligence gathering and cyber defense.  
 
-### **Argos**
-In addition to **Protectora**, Callidos Group is also developing **Argos**, a revolutionary OSINT (Open Source Intelligence) tool. **Argos** is designed to facilitate the efficient collection and analysis of publicly accessible data while adhering to the highest ethical standards.
+### Modern Tech Stack:  
+- **Go** for high-performance backend systems  
+- **React-Typescript** interfaces with military-grade hardening  
+- **GraphQL APIs** with OAuth2.0/OpenID Connect  
 
-**Argos** stands out with:
-- An intuitive interface to explore public data sources.
-- Advanced algorithms for data analysis and correlation to identify trends and threats.
-- Enhanced security to protect collected data and generated insights.
+**Transparent Operations**: Public vulnerability disclosure program and open audit policies.  
 
----
+## Vision & Values  
+### Mission:  
+Democratize professional-grade security tools for mid-market organizations.  
 
-## Unmatched Expertise
+### Principles:  
+- **Ethics First**: We reject surveillance capitalism – tools designed for defense, not exploitation.  
+- **Zero Bloat**: Feature-focused solutions without unnecessary complexity.  
+- **Collaborative Growth**: Co-build features with early clients.  
 
-Callidos Group brings together top-tier experts, passionate about innovation and the creation of secure solutions tailored to the needs of the most demanding clients. The company adopts a modular and independent approach, ensuring flexibility and scalability in every project.
+## Let’s Secure Tomorrow  
+### Ideal Partners:  
+- **Security teams** needing automated OSINT capabilities  
+- **Regulated industries** requiring compliant communication tools  
+- **Tech companies** seeking embedded security modules  
 
----
+📩 **Contact**: partner@callidosgroup.eu | 📍 **Paris, FR / Remote-Friendly**  
 
-## Strong Values and Limitless Ambition
-
-Excellence, confidentiality, and innovation are the core values that drive Callidos Group. The company is committed to building a secure and high-performing digital future by delivering highly secure solutions tailored to tomorrow's challenges.
-
-With Callidos Group, the technological future is being built today, with grandeur and majestic innovation.
+© 2025 Callidos GROUP.
