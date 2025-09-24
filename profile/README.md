@@ -3,12 +3,12 @@ Decoding the invisible, revealing the unknown.
 
 ## About Us
 
-- Callidos is a french cybersecurity company specializing in the development of advanced tools for OSINT and cybersecurity software.
+- Callidos is a french IT company specializing in the development of advanced cybersecurity tools and software.
   
 ## Contact Us
 
-- For collaborations or support, please reach out to us at:
+- For collaborations, informations, or support, please reach out to us at:
 
-  - Email: [contact@callidosgroup.eu](mailto:contact@callidosgroup.eu)
+  - Email: [contact@callidosgroup.eu](mailto:contact@callidos.fr)
 
 &copy; Callidos GROUP
