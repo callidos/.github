@@ -9,6 +9,6 @@ Decoding the invisible, revealing the unknown.
 
 - For collaborations, informations, or support, please reach out to us at:
 
-  - Email: [contact@callidosgroup.eu](mailto:contact@callidos.fr)
+  - Email: [contact@callidos.fr](mailto:contact@callidos.fr)
 
 &copy; Callidos GROUP
