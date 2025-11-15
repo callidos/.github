@@ -7,8 +7,11 @@ Decoding the invisible, revealing the unknown.
   
 ## Contact Us
 
-- For collaborations, informations, or support, please reach out to us at:
+- For collaborations, informations, or support, please reach out to us at :
 
-  - Email: [contact@callidos.fr](mailto:contact@callidos.fr)
+  - Email : [contact@callidos.fr](mailto:contact@callidos.fr)
+
+- For any security questions, or to report a vulnerability responsibly :
+  - Email : [security@callidos.fr](mailto:security@callidos.fr)
 
 &copy; Callidos GROUP
